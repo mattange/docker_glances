@@ -1,2 +1,2 @@
 # docker_glances
-Docker glances image for ARM architecture
+Docker glances image - allows building on other architectures.
